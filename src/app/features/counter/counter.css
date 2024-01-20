@@ -1,0 +1,13 @@
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.inc-dec {
+  background-color: aqua;
+  font-size: medium;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
